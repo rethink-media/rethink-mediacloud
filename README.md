@@ -1,5 +1,5 @@
 # rethink-mediacloud
-Repo for ReThink's MediaCloud API, built to analyze 9/11 anniversary coverage and expanded for more general use. Objectives include:
+Repo for accessing the MediaCloud API, built to analyze 9/11 20th anniversary coverage and expanded for more general use. Objectives include:
 - Create custom news outlet lists to search (e.g. ReThink’s standard Novetta media outlet lists)
 - Output “news hole” line graphs
 - Use word counts to create word clouds
